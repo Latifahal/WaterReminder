@@ -1,4 +1,3 @@
-// +92 316 5277992
 
 
 
@@ -123,9 +122,6 @@ if(idx === 7 && smallCups[idx].classList.contains('full')){
 
     }
   })
-
-
-
 }
 
 
@@ -150,7 +146,7 @@ function updateBigCup(){
  * if and else statements in js 
  * Logiical operators
  * Relational operators
- * 
+ * node list
  */
 
 
