@@ -1,5 +1,5 @@
 :root{
-    --fill-color: #6ab3f8 
+    --fill-color: rgba(73, 154, 235, 0.647);opacity: 0.6;
 }
 *{
     margin: 0;
@@ -9,7 +9,7 @@
 
 body{
 
- background-image: url('blue.jpg');
+ background-image: url('bubble.jpg');
  background-size: cover;
  display: flex;
  flex-direction: column;
@@ -68,6 +68,7 @@ body{
 .percentage{
     background-color: var(--fill-color);
     width: 150px;
+    transition: 0.5s ease;
 }
 
 .remained {
